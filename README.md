@@ -29,3 +29,37 @@ Cloudiness is completely independent of where a city is located.
 ![hotel map](images/fig8.png)
 
 Other than a few outliers, most cities experience wind speeds of 0 to 20 mph independant of their distance to the equator.
+
+## Linear Regression on each relationship by hemisphere
+
+* ### Northern Hemisphere - Temperature (F) vs. Latitude
+
+![hotel map](images/fig9.png)
+
+* ### Southern Hemisphere - Temperature (F) vs. Latitude
+
+![hotel map](images/fig10.png)
+
+* ### Northern Hemisphere - Humidity (%) vs. Latitude
+
+![hotel map](images/fig11.png)
+
+* ### Southern Hemisphere - Humidity (%) vs. Latitude
+
+![hotel map](images/fig12.png)
+
+* ### Northern Hemisphere - Cloudiness (%) vs. Latitude
+
+![hotel map](images/fig13.png)
+
+* ### Southern Hemisphere - Cloudiness (%) vs. Latitude
+
+![hotel map](images/fig14.png)
+
+* ### Northern Hemisphere - Wind Speed (mph) vs. Latitude
+
+![hotel map](images/fig15.png)
+
+* ### Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+![hotel map](images/fig16.png)
