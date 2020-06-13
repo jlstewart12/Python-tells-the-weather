@@ -10,14 +10,22 @@ Initial scatter plots showcase the following relationships:
 
 ![hotel map](images/fig5.png)
 
+This plot shows cities with the highest maximum temperatures falling between -40 and 20 degrees of latitude and then temperatures falling as the cities lie further away from the equator. The bulk of them are in the Northern Hemisphere.
+
 * ### Humidity (%) vs. Latitude
 
 ![hotel map](images/fig6.png)
+
+As indicated in the plot above, there isn't a strong correlation between humidity and city latitude.
 
 * ### Cloudiness (%) vs. Latitude
 
 ![hotel map](images/fig7.png)
 
+Cloudiness is completely independent of where a city is located.
+
 * ### Wind Speed (mph) vs. Latitude
 
 ![hotel map](images/fig8.png)
+
+Other than a few outliers, most cities experience wind speeds of 0 to 20 mph independant of their distance to the equator.
